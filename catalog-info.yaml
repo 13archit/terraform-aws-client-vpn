@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: 13archit/terraform-aws-client-vpn
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: cd-terraform
