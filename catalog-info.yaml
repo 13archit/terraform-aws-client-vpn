@@ -7,6 +7,4 @@ metadata:
 spec:
   type: service
   lifecycle: unknown
-  dependsOn:
-    - resource:default/artists-db
   owner: cd-terraform
