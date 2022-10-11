@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: terraform-aws-client-vpn
   annotations:
-    
+    github.com/project-slug: BESTSELLER/terraform-provider-luis
     backstage.io/kubernetes-id: terraform-aws-client-vpn
 spec:
   type: service
