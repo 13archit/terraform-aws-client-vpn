@@ -6,6 +6,6 @@ metadata:
     
     backstage.io/kubernetes-id: terraform-aws-client-vpn
 spec:
-  type: website
+  type: service
   lifecycle: unknown
   owner: cd-terraform
